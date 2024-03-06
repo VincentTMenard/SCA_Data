@@ -13,7 +13,9 @@ To run the scripts and analyses contained in this repository, ensure you have MA
   - **Database**: Stores all necessary data files to generate the analysis database using SPSS software.
 
 - **COVID-19**
-  - Contains scripts for conducting analyses on COVID-19 data for the USA and Canada. Use `Figure_play_dynamic03_COVID_Canada.m` for Canadian data analysis and `Figure_play_dynamic03_COVID_USA.m` for USA data analysis.
+  - **Analysis Scripts**: Contains scripts for conducting analyses on COVID-19 data for the USA and Canada. Use `Figure_play_dynamic03_COVID_Canada.m` for Canadian data analysis and `Figure_play_dynamic03_COVID_USA.m` for USA data analysis.
+  - **Database**: Includes the database necessary for COVID-19 analysis.
+
 
 ## Running the Analyses
 
